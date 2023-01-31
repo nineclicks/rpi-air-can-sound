@@ -21,4 +21,8 @@ sudo systemctl enable air-can.service
 sudo systemctl start air-can.service
 ```
 
+```
+sudo apt-get install ffmpeg
+```
+
 Send an http GET request to hostname:8080/sound to activate.
