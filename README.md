@@ -5,7 +5,7 @@ aplay -L
 ```
 
 Example result:
-# hw:CARD=UACDemoV10,DEV=0
+> hw:CARD=UACDemoV10,DEV=0
 
 ```
 aplay air_can.wav -Dhw:UACDemoV10
